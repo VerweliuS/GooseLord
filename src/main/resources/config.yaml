@@ -1,0 +1,14 @@
+# Specify bot's token!
+token: Your Token
+
+# Specify bot's activity status!
+status: Activity status
+
+# Choose prefix!
+prefix: '++'
+
+# You can add yours!
+emotes:
+  - name: 'attack'
+    header: 'Истребляет чат армией гусей! :knife:'
+    imageUrl: 'https://cdn.discordapp.com/attachments/981549563045355564/981562694652006440/goose.gif'
